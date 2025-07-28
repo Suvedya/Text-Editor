@@ -1,4 +1,4 @@
-# 📝 Basic Text Editor using Python (Tkinter)
+# 📝 Text Editor using Python (Tkinter)
 
 ## 📌 Project Overview  
 This project is a lightweight text editor built using **Python** and the **Tkinter** GUI library. Designed to provide basic editing functionalities, the application allows users to perform common file operations, format text, and utilize a built-in search feature — all within a clean and responsive user interface.
