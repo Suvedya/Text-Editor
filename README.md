@@ -21,8 +21,8 @@ This project is a lightweight text editor built using **Python** and the **Tkint
 ## 📂 Project Structure
 
 ```
-Basic-Text-Editor/
-├── editor.py       # Main application script  
+Text-Editor/
+├── os.py       # Main application script  
 └── README.md       # Project documentation
 ```
 
